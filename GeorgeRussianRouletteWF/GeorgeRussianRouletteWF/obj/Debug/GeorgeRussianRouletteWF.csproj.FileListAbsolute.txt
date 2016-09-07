@@ -1,0 +1,95 @@
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.exe.config
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.exe
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.pdb
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.csprojResolveAssemblyReference.cache
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.Form1.resources
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.Properties.Resources.resources
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.csproj.GenerateResource.Cache
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.exe
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.pdb
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.exe.config
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.exe
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.pdb
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.exe
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.pdb
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.Form1.resources
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.Properties.Resources.resources
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.csproj.GenerateResource.Cache
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.PlayerScore.resources
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 1\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.exe.config
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 1\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.exe
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 1\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.pdb
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 1\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.exe
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 1\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.pdb
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 1\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.Form1.resources
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 1\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.PlayerScore.resources
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 1\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.Properties.Resources.resources
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 1\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.csproj.GenerateResource.Cache
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 1\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.csprojResolveAssemblyReference.cache
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 1\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.StartGame.resources
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 2\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.exe.config
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 2\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.exe
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 2\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.pdb
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 2\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.exe
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 2\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.pdb
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 2\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.csprojResolveAssemblyReference.cache
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 2\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.Form1.resources
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 2\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.PlayerScore.resources
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 2\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.Properties.Resources.resources
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 2\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.StartGame.resources
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 2\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.csproj.GenerateResource.Cache
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 4\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.exe.config
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 4\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.exe
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 4\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.pdb
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 4\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.exe
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 4\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.pdb
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 4\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.csprojResolveAssemblyReference.cache
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 4\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.Form1.resources
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 4\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.PlayerScore.resources
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 4\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.Properties.Resources.resources
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 4\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.StartGame.resources
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 4\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.csproj.GenerateResource.Cache
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 5\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.exe.config
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 5\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.exe
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 5\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.pdb
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 5\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.exe
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 5\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.pdb
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 5\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.csprojResolveAssemblyReference.cache
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 5\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.Form1.resources
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 5\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.PlayerScore.resources
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 5\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.Properties.Resources.resources
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 5\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.StartGame.resources
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 5\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.csproj.GenerateResource.Cache
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 5\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.exe.config
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 5\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.exe
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 5\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.pdb
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 5\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.exe
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 5\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.pdb
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 5\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.csprojResolveAssemblyReference.cache
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 5\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.Form1.resources
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 5\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.PlayerScore.resources
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 5\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.Properties.Resources.resources
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 5\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.StartGame.resources
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 5\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.csproj.GenerateResource.Cache
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 7\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.exe.config
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 7\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.exe
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 7\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.pdb
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 7\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.exe
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 7\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.pdb
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 7\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.csprojResolveAssemblyReference.cache
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 7\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.Form1.resources
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 7\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.PlayerScore.resources
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 7\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.Properties.Resources.resources
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 7\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.StartGame.resources
+C:\Users\George\Documents\Visual Studio 2015\Projects 3 Sorted\1 Assignment prog 7\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.csproj.GenerateResource.Cache
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 7\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.exe.config
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 7\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.exe
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 7\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.pdb
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 7\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.exe
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 7\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\bin\Debug\GeorgeRussianRouletteWF.pdb
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 7\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.csprojResolveAssemblyReference.cache
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 7\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.Form1.resources
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 7\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.PlayerScore.resources
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 7\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.Properties.Resources.resources
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 7\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.StartGame.resources
+\\telmar\users\PK016\My Documents\Visual Studio 2015\Projects\1 Assignment prog 7\GeorgeRussianRouletteWF\GeorgeRussianRouletteWF\obj\Debug\GeorgeRussianRouletteWF.csproj.GenerateResource.Cache
