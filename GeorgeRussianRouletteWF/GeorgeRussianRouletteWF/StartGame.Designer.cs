@@ -43,6 +43,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.txtPlayerName = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -51,6 +52,7 @@
             this.groupBox1.BackColor = System.Drawing.Color.Transparent;
             this.groupBox1.BackgroundImage = global::GeorgeRussianRouletteWF.Properties.Resources.howToBg;
             this.groupBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.label13);
             this.groupBox1.Controls.Add(this.label12);
             this.groupBox1.Controls.Add(this.label11);
@@ -67,7 +69,7 @@
             this.groupBox1.Controls.Add(this.txtPlayerName);
             this.groupBox1.Cursor = System.Windows.Forms.Cursors.Default;
             this.groupBox1.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.groupBox1.Location = new System.Drawing.Point(483, 297);
+            this.groupBox1.Location = new System.Drawing.Point(489, 252);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(601, 529);
             this.groupBox1.TabIndex = 36;
@@ -77,45 +79,41 @@
             // 
             this.label13.AutoSize = true;
             this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label13.Location = new System.Drawing.Point(214, 279);
+            this.label13.Location = new System.Drawing.Point(214, 293);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(212, 18);
             this.label13.TabIndex = 49;
             this.label13.Text = "Step 6: Check Score or Replay";
-            this.label13.UseWaitCursor = true;
             // 
             // label12
             // 
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.Location = new System.Drawing.Point(31, 279);
+            this.label12.Location = new System.Drawing.Point(31, 293);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(83, 18);
             this.label12.TabIndex = 48;
             this.label12.Text = "Step 5: Fire";
-            this.label12.UseWaitCursor = true;
             // 
             // label11
             // 
             this.label11.AutoSize = true;
             this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(214, 252);
+            this.label11.Location = new System.Drawing.Point(214, 266);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(152, 18);
             this.label11.TabIndex = 47;
             this.label11.Text = "Step 4: Spin Chamber";
-            this.label11.UseWaitCursor = true;
             // 
             // label10
             // 
             this.label10.AutoSize = true;
             this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(31, 252);
+            this.label10.Location = new System.Drawing.Point(31, 266);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(131, 18);
             this.label10.TabIndex = 46;
             this.label10.Text = "Step 3: Load Bullet";
-            this.label10.UseWaitCursor = true;
             // 
             // label9
             // 
@@ -126,52 +124,47 @@
             this.label9.Size = new System.Drawing.Size(544, 18);
             this.label9.TabIndex = 45;
             this.label9.Text = "Your goal is to escape the bullet in the first 2 shots from a gun loaded with 1 b" +
-    "ullet.";
-            this.label9.UseWaitCursor = true;
+    "ullet,";
             // 
             // label7
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(215, 225);
+            this.label7.Location = new System.Drawing.Point(215, 239);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(340, 18);
             this.label7.TabIndex = 44;
             this.label7.Text = "Step 2: Choose POINT AWAY or POINT AT HEAD";
-            this.label7.UseWaitCursor = true;
             // 
             // label6
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(31, 225);
+            this.label6.Location = new System.Drawing.Point(31, 239);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(167, 18);
             this.label6.TabIndex = 43;
             this.label6.Text = "Step 1: Enter your name";
-            this.label6.UseWaitCursor = true;
             // 
             // label5
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(31, 189);
+            this.label5.Location = new System.Drawing.Point(31, 203);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(108, 18);
             this.label5.TabIndex = 42;
             this.label5.Text = "How to Play?";
-            this.label5.UseWaitCursor = true;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(31, 142);
+            this.label4.Location = new System.Drawing.Point(27, 160);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(261, 18);
+            this.label4.Size = new System.Drawing.Size(462, 18);
             this.label4.TabIndex = 41;
-            this.label4.Text = "You have 1 in 6 chance of getting shot.";
-            this.label4.UseWaitCursor = true;
+            this.label4.Text = " get fired! You have 1 in 6 chance of getting shot each time you shoot.";
             // 
             // label2
             // 
@@ -182,7 +175,6 @@
             this.label2.Size = new System.Drawing.Size(147, 18);
             this.label2.TabIndex = 40;
             this.label2.Text = "What\'s the Game?";
-            this.label2.UseWaitCursor = true;
             // 
             // btnSubmitPlayerName
             // 
@@ -205,6 +197,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.Cursor = System.Windows.Forms.Cursors.Default;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(24, 24);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
@@ -213,7 +206,6 @@
             this.label1.TabIndex = 38;
             this.label1.Text = "George\'s Lucky Me!!! Shooting Game";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label1.UseWaitCursor = true;
             // 
             // label8
             // 
@@ -226,7 +218,6 @@
             this.label8.TabIndex = 37;
             this.label8.Text = "ENTER YOUR NAME";
             this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label8.UseWaitCursor = true;
             // 
             // txtPlayerName
             // 
@@ -240,6 +231,17 @@
             this.txtPlayerName.TabIndex = 36;
             this.txtPlayerName.Text = "Player 1";
             this.txtPlayerName.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(31, 142);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(536, 18);
+            this.label3.TabIndex = 50;
+            this.label3.Text = "else you continue firing to enjoy the game and figure out which of the 4 shots yo" +
+    "u";
             // 
             // StartGame
             // 
@@ -277,5 +279,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.TextBox txtPlayerName;
+        private System.Windows.Forms.Label label3;
     }
 }

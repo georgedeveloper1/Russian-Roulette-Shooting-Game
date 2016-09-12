@@ -123,16 +123,7 @@
     <None Include="Resources\deadEmojiImg.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\worriedEmojiImg.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\startPageBg.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\howToBg.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\gameBg.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\spinChamberImg1.png" />
@@ -147,7 +138,19 @@
     <None Include="Resources\spinChamberImg4.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\loadedGunImg.png" />
+    <None Include="Resources\loadYourGunImg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\happyEmojiImg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deadEmojiImg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\worriedEmojiImg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\startPageBg.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\pointAwayGunFireImg.png" />
@@ -159,13 +162,10 @@
     <None Include="Resources\pointAwayGunImg.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\happyEmojiImg.png" />
+    <None Include="Resources\loadedGunImg.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\loadYourGunImg.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\deadEmojiImg.png" />
+    <None Include="Resources\gameBg.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

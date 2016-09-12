@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// George's Lucky Me!!! Russian Roulette Shooting Game
+
 namespace GeorgeRussianRouletteWF
 {
     public partial class StartGame : Form
@@ -31,3 +33,5 @@ namespace GeorgeRussianRouletteWF
         }
     }
 }
+
+// End of code

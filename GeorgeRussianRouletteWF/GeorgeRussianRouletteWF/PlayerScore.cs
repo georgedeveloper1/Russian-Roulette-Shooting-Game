@@ -9,13 +9,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// George's Lucky Me!!! Russian Roulette Shooting Game
+
 namespace GeorgeRussianRouletteWF
 {
     public partial class PlayerScore : Form
     {
+        // Read file path should be changed to the location on PC this application is run
         string PlayerScoreRead_Path = "C:\\Users\\George\\Documents\\Visual Studio 2015\\Projects 3 Sorted\\1 Assignment\\PlayerScore.txt";
-        //string PlayerScoreRead_Path = "C:\\projects\\1 Assignment\\PlayerScore.txt";
-
+        
         public PlayerScore()
         {
             InitializeComponent();
@@ -60,3 +62,5 @@ namespace GeorgeRussianRouletteWF
         }
     }
 }
+
+// End of code

@@ -99,7 +99,7 @@
             this.btnPlayAgain.BackColor = System.Drawing.Color.Transparent;
             this.btnPlayAgain.BackgroundImage = global::GeorgeRussianRouletteWF.Properties.Resources.howToBg;
             this.btnPlayAgain.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnPlayAgain.Location = new System.Drawing.Point(1005, 797);
+            this.btnPlayAgain.Location = new System.Drawing.Point(967, 797);
             this.btnPlayAgain.Name = "btnPlayAgain";
             this.btnPlayAgain.Size = new System.Drawing.Size(155, 45);
             this.btnPlayAgain.TabIndex = 3;
@@ -112,7 +112,7 @@
             this.btnFireGun.BackgroundImage = global::GeorgeRussianRouletteWF.Properties.Resources.howToBg;
             this.btnFireGun.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnFireGun.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnFireGun.Location = new System.Drawing.Point(1245, 634);
+            this.btnFireGun.Location = new System.Drawing.Point(1207, 634);
             this.btnFireGun.Name = "btnFireGun";
             this.btnFireGun.Size = new System.Drawing.Size(258, 115);
             this.btnFireGun.TabIndex = 2;
@@ -125,7 +125,7 @@
             this.btnSpinChamber.BackgroundImage = global::GeorgeRussianRouletteWF.Properties.Resources.howToBg;
             this.btnSpinChamber.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnSpinChamber.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSpinChamber.Location = new System.Drawing.Point(1005, 711);
+            this.btnSpinChamber.Location = new System.Drawing.Point(967, 711);
             this.btnSpinChamber.Name = "btnSpinChamber";
             this.btnSpinChamber.Size = new System.Drawing.Size(206, 38);
             this.btnSpinChamber.TabIndex = 1;
@@ -138,7 +138,7 @@
             this.btnBulletLoad.BackgroundImage = global::GeorgeRussianRouletteWF.Properties.Resources.howToBg;
             this.btnBulletLoad.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnBulletLoad.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnBulletLoad.Location = new System.Drawing.Point(1005, 634);
+            this.btnBulletLoad.Location = new System.Drawing.Point(967, 634);
             this.btnBulletLoad.Name = "btnBulletLoad";
             this.btnBulletLoad.Size = new System.Drawing.Size(206, 38);
             this.btnBulletLoad.TabIndex = 0;
@@ -157,7 +157,7 @@
             this.groupBox1.BackgroundImage = global::GeorgeRussianRouletteWF.Properties.Resources.howToBg;
             this.groupBox1.Controls.Add(this.rbPointHead);
             this.groupBox1.Controls.Add(this.rbPointAway);
-            this.groupBox1.Location = new System.Drawing.Point(1005, 523);
+            this.groupBox1.Location = new System.Drawing.Point(967, 523);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(498, 67);
             this.groupBox1.TabIndex = 8;
@@ -197,7 +197,7 @@
             this.label8.BackColor = System.Drawing.Color.Transparent;
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.SystemColors.Control;
-            this.label8.Location = new System.Drawing.Point(1002, 501);
+            this.label8.Location = new System.Drawing.Point(964, 501);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(61, 18);
             this.label8.TabIndex = 20;
@@ -292,7 +292,7 @@
             this.label7.BackColor = System.Drawing.Color.Transparent;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.SystemColors.Control;
-            this.label7.Location = new System.Drawing.Point(766, 592);
+            this.label7.Location = new System.Drawing.Point(840, 596);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(16, 16);
             this.label7.TabIndex = 16;
@@ -303,7 +303,7 @@
             this.btnExit.BackgroundImage = global::GeorgeRussianRouletteWF.Properties.Resources.howToBg;
             this.btnExit.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnExit.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnExit.Location = new System.Drawing.Point(1327, 797);
+            this.btnExit.Location = new System.Drawing.Point(1289, 797);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(176, 45);
             this.btnExit.TabIndex = 17;
@@ -316,7 +316,7 @@
             this.btnCheckScore.BackgroundImage = global::GeorgeRussianRouletteWF.Properties.Resources.howToBg;
             this.btnCheckScore.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnCheckScore.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCheckScore.Location = new System.Drawing.Point(1166, 797);
+            this.btnCheckScore.Location = new System.Drawing.Point(1128, 797);
             this.btnCheckScore.Name = "btnCheckScore";
             this.btnCheckScore.Size = new System.Drawing.Size(155, 45);
             this.btnCheckScore.TabIndex = 19;
@@ -330,7 +330,7 @@
             this.label9.BackColor = System.Drawing.Color.Transparent;
             this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.SystemColors.Control;
-            this.label9.Location = new System.Drawing.Point(1002, 607);
+            this.label9.Location = new System.Drawing.Point(964, 607);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(61, 18);
             this.label9.TabIndex = 21;
@@ -342,7 +342,7 @@
             this.label10.BackColor = System.Drawing.Color.Transparent;
             this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.ForeColor = System.Drawing.SystemColors.Control;
-            this.label10.Location = new System.Drawing.Point(1242, 607);
+            this.label10.Location = new System.Drawing.Point(1204, 607);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(61, 18);
             this.label10.TabIndex = 22;
@@ -354,7 +354,7 @@
             this.label11.BackColor = System.Drawing.Color.Transparent;
             this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.ForeColor = System.Drawing.SystemColors.Control;
-            this.label11.Location = new System.Drawing.Point(1002, 687);
+            this.label11.Location = new System.Drawing.Point(964, 687);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(61, 18);
             this.label11.TabIndex = 23;
@@ -366,7 +366,7 @@
             this.label12.BackColor = System.Drawing.Color.Transparent;
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label12.ForeColor = System.Drawing.SystemColors.Control;
-            this.label12.Location = new System.Drawing.Point(1217, 767);
+            this.label12.Location = new System.Drawing.Point(1179, 767);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(61, 18);
             this.label12.TabIndex = 24;
@@ -379,7 +379,7 @@
             this.txtScoresBox.Location = new System.Drawing.Point(85, 682);
             this.txtScoresBox.Multiline = true;
             this.txtScoresBox.Name = "txtScoresBox";
-            this.txtScoresBox.Size = new System.Drawing.Size(762, 103);
+            this.txtScoresBox.Size = new System.Drawing.Size(762, 150);
             this.txtScoresBox.TabIndex = 25;
             this.txtScoresBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -389,7 +389,7 @@
             this.label13.BackColor = System.Drawing.Color.Transparent;
             this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label13.ForeColor = System.Drawing.SystemColors.Control;
-            this.label13.Location = new System.Drawing.Point(426, 655);
+            this.label13.Location = new System.Drawing.Point(426, 649);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(96, 24);
             this.label13.TabIndex = 26;
